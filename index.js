@@ -19,7 +19,7 @@ client.db = require("quick.db");
 client.on("ready", async () => {
   console.log(`Yo boii!! Moderation.V2 has been deployed!! 🚀 Coded by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#0002`);
   client.user
-    .setActivity(`Discord Tricks`, { type: "LISTENING" })
+    .setActivity(`Tryndable#777 Tricks`, { type: "LISTENING" })
     .catch(error => console.log(error));
 });
 
@@ -133,4 +133,4 @@ client.on('guildMemberAdd', async (member) => {
 
 client.login(process.env.Token);
 
-//Bot Coded by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#0002 DONOT share WITHOUT credits!!
+//Bot Coded by Tryndable#7777 Tyxere tommy 
